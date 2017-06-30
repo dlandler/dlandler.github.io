@@ -242,7 +242,7 @@ header .intro-text {
 	padding: 0 0 60px 0;
 }
 #restaurant-menu .section-title {
-	background: #444 url(../img/Elekto-1.jpg) center center no-repeat fixed;
+	background: #444 url(../img/skills-bg.jpg) center center no-repeat fixed;
 	background-size: cover;
 }
 #restaurant-menu .section-title h2 {
@@ -297,7 +297,7 @@ header .intro-text {
 	padding: 0 0 120px 0;
 }
 #portfolio .section-title {
-	background: #444 url(../img/Elekto-4.jpg) center center no-repeat fixed;
+	background: #444 url(../img/project-bg.jpg) center center no-repeat fixed;
 	background-size: cover;
 	margin-bottom: 50px;
 }
@@ -560,7 +560,7 @@ color: #777;
 }
 #contact .section-title
 {
-    background-image: url(../img/Handy.jpg);
+    background-image: url(../img/contact.jpg);
 }
 #contact .contact-item {
 	margin: 20px 0 40px 0;
