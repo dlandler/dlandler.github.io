@@ -1,0 +1,7 @@
+<rss version="2.0">
+<drucker>
+  <name>myDrucker</name>
+  <papier>35</papier>
+  <toner>100</toner>
+</drucker>
+</rss>
